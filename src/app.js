@@ -18,7 +18,7 @@ document.querySelector('.card-form').addEventListener('click', cancelEdit);
 
 // Get posts
 function getPosts() {
-  http.get('https://localhost:3000/posts')
+  http.get('http://localhost:3000/posts')
     .then(data => ui.showPosts(data))
     .catch(err => console.log(err));
 }
@@ -38,7 +38,7 @@ function submitPost() {
   } else {
     if (id === '') {
       // Create Post
-      http.post('http://localhost:3000/posts/', data)
+      http.post('http://localhost:3000/posts', data)
         .then(data => {
           ui.showAlert('Post added', `alert alert-success`);
           ui.clearFields();
