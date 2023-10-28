@@ -1,0 +1,12 @@
+.header {
+    color: white;
+    transition: color 0.3s; /* Add a smooth transition effect for a gradual color change */
+}
+
+.header:hover {
+    color: white;
+}
+.delete {
+    color: red;
+    font-size: 20px;
+}
