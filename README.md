@@ -40,7 +40,9 @@ A simple basic CRUD (Create, Read, Update, Delete) application that replicates t
 3. Delete Post
 
 ## Project Demo:
-https://github.com/naveenkumar-j/microposts/assets/70682152/b3bc4131-0385-487c-9319-89fc97943a3e
+https://github.com/naveenkumar-j/microposts/assets/70682152/efc9351c-b27e-46ce-9e88-0ca6fd59bc74
+
+
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -64,7 +66,14 @@ Install the dependencies
 $ npm install
 ```
 
-### Serve
+### Serve Json
+To serve in the json api
+
+```sh
+$ npm run json:server
+```
+
+### Serve Application
 To serve in the browser  - Runs webpack-dev-server
 
 ```sh
