@@ -1,4 +1,4 @@
-<h1 align="center">Microposts Application</h1> 
+<h1 align="center" id="micropost">Microposts Application</h1> 
 <!-- <h4 align="center"><a href="https://naveenkumar-j.github.io/calorie-tracker-website" target="_blank">Live Preview</a></h4>  -->
 
 - ### Tech Stack used:
@@ -12,7 +12,7 @@
 					</td>
 					<td width="25%" align="center">
 						<span><strong>Bootstrap CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/bootstrap.svg">
+						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/Bootstrap.svg">
 					</td>
           <td width="25%" align="center">
 						<span><strong>JavaScript</strong></span><br/>
@@ -24,7 +24,7 @@
 					</td>
           <td width="25%" align="center">
 						<span><strong>Babel</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/babel.svg">
+						<img height="64px" width="64px" src="https://github.com/prplx/svg-logos/blob/master/svg/Babel.svg">
 					</td>
 				</tr>
 			</tbody>
@@ -45,7 +45,7 @@ https://github.com/naveenkumar-j/microposts/assets/70682152/efc9351c-b27e-46ce-9
 
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#micropost">↥ back to top</a></b>
 </div>
 
 
@@ -100,5 +100,5 @@ Brad Traversy
 This project is licensed under the MIT License
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#micropost">↥ back to top</a></b>
 </div>
